@@ -1,4 +1,4 @@
-# Spotify Clone Backend
+# Spotify Backend clone 
 
 A Node.js/Express/MongoDB backend for a Spotify Clone with full user authentication (register/login with roles: user/artist), music upload/storage (ImageKit), albums, and role-based access control. Features protected routes for music management.
 
